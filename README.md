@@ -4,6 +4,8 @@
 
 - GitHub: https://github.com/kangwooklee29
 
+- Blog: https://kangwooklee29.github.io/blog/
+
 ## Work Experience
 
 - [Bear Robotics Korea](https://kr.bearrobotics.ai/) (Jan 2023 - Jul 2023)
