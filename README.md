@@ -1,10 +1,10 @@
 # Kangwook Lee
 
-- Email: kangwooklee29@gmail.com
+- Email: [kangwooklee29@gmail.com](mailto:kangwooklee29@gmail.com)
 
-- GitHub: https://github.com/kangwooklee29
+- GitHub: [https://github.com/kangwooklee29](https://github.com/kangwooklee29)
 
-- Blog: https://kangwooklee29.github.io/blog/
+- Blog: [https://kangwooklee29.github.io/blog/](https://kangwooklee29.github.io/blog/)
 
 ## Work Experience
 
