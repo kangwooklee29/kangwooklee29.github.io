@@ -1,5 +1,7 @@
 # Kangwook Lee
 
+A software engineer with 1+ year experience in network protocols, proxy server development, and SQL analysis.
+
 - Email: [kangwooklee29@gmail.com](mailto:kangwooklee29@gmail.com)
 
 - GitHub: [https://github.com/kangwooklee29](https://github.com/kangwooklee29)
